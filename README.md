@@ -1,2 +1,2 @@
 # Merva-SDK
-A vector editor. 
+A vector SDK. 
